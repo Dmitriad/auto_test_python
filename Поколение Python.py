@@ -16,3 +16,4 @@ txt2 = input()
 
 # вызываем функцию
 print(is_one_away(txt1, txt2))
+print(1)
